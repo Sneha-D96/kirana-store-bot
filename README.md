@@ -1,4 +1,7 @@
-# Kirana Store AI Autonomous Manager
+
+
+## Project Demo Video
+**Watch the full 4-5 minute execution demo here:** https://drive.google.com/file/d/1XmHknST628PFjojPkIY4tKdHYxalec59/view?usp=sharing # Kirana Store AI Autonomous Manager
 
 An autonomous, multi-tool retail management agent built on LangGraph and Groq, designed to handle strict SQLite database grounding, oversell guards, ACID billing transactions, and real document artifacts.
 
